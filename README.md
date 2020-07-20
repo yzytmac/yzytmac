@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yzytmac/yzytmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +34,7 @@ You can use the website to generate badges: https://shields.io/
 - 💪  I’m good at Java,Kotlin,Jetpack,Flutter and reverse-development;
 - 🏀  I like basketball and chess;
 - 📫  Contact me: yzytmac@gmail.com
-- 🏠  Home page: https://yzytmac.github.io
+- 🏠  Home page: yzytmac.github.io
 
 **Languages and Tools:** 
 
