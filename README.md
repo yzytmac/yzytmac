@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://wiki.jikexueyuan.com/project/wiki-journal-201507-1/images/skill-up-blog_2.png" />
 
-- 👨🏽‍ I’m an Android developer in ShenZhen-China for 5 years;
+- 👨🏽‍ I’m an Android developer in China for 5 years;
 - 💪  I’m good at Java,Kotlin,Jetpack,Flutter and reverse-development;
 - 🏀  I like basketball and chess;
 - 📫  Contact me: yzytmac@gmail.com
