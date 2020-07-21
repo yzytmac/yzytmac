@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-yzytmac-0E83CD?style=flat&logo=Hexo&logoColor=white)](https://yzytmac.github.io)
-[![Gmail](https://img.shields.io/badge/-yzytmac@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](yzytmac@gmail.com)
-[![QQ](https://img.shields.io/badge/-398564331-0097ec?style=flat&logo=Tencent%20QQ&logoColor=black)](398564331)
-[![Wechat](https://img.shields.io/badge/-yzytmac-00cf66?style=flat&logo=WeChat&logoColor=white)](yzytmac)
-[![Wechat](https://img.shields.io/badge/-yzytmac-2CA5E0?style=flat&logo=Telegram&logoColor=white)](yzytmac)
+[![Github](https://img.shields.io/badge/-Hexo-0E83CD?style=flat&logo=Hexo&logoColor=white)](https://yzytmac.github.io)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yzytmac@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/yzytmac)
+[![QQ](https://img.shields.io/badge/-QQ-0097ec?style=flat&logo=Tencent%20QQ&logoColor=black)](tencent://message/?Menu=yes&uin=398564331&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45)
+[![Wechat](https://img.shields.io/badge/Wechat-yzytmac-00cf66?style=flat&logo=WeChat&logoColor=white)](yzytmac)
 
 &nbsp;
 
