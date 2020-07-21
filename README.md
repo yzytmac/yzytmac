@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/yzytmac)
 [![QQ](https://img.shields.io/badge/-QQ-0097ec?style=flat&logo=Tencent%20QQ&logoColor=black)](tencent://message/?Menu=yes&uin=398564331&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45)
 [![Wechat](https://img.shields.io/badge/-Wechat-00cf66?style=flat&logo=WeChat&logoColor=white)](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/medias/yzyweixin.png)
-<code><a href="tencent://message/?Menu=yes&uin=398564331&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45">qq</a></code>
+<code><a onclick="window.location='tencent://message/?Menu=yes&uin=398564331&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45'" ><img src="https://img.shields.io/badge/-QQ-0097ec?style=flat&logo=Tencent%20QQ&logoColor=black" /></a></code>
 
 &nbsp;
 
