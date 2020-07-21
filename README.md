@@ -101,10 +101,10 @@ I created these images, feel free to use them.
 
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/yzytmac/WebRTCAndroid">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzytmac&repo=WebRTCAndroid" />
   </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
+  <a href="https://github.com/yzytmac/WechatShare">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzytmac&repo=WechatShare" />
   </a>
 </p>
