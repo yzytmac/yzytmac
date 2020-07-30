@@ -22,6 +22,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Hexo-0E83CD?style=flat&logo=Hexo&logoColor=white)](https://yzytmac.github.io)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yzytmac@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/yzytmac)
+[![Gmail](https://img.shields.io/badge/-Email-e80617?style=flat&logo=Mail.Ru&logoColor=white)](mailto:yzytmac@163.com)
 [![Wechat](https://img.shields.io/badge/-Wechat-00cf66?style=flat&logo=WeChat&logoColor=white)](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/medias/yzyweixin.png)
 [![QQ](https://img.shields.io/badge/-QQ-0097ec?style=flat&logo=Tencent%20QQ&logoColor=555)](http://wpa.qq.com/msgrd?v=3&uin=398564331)
 
