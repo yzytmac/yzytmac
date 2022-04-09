@@ -106,8 +106,8 @@ I created these images, feel free to use them.
   <a href="https://github.com/yzytmac/KeepAliveCore">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzytmac&repo=KeepAliveCore" />
   </a>
-  <a href="https://github.com/yzytmac/KeepAliveCore">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzytmac&repo=KeepAliveCore" />
+  <a href="https://github.com/yzytmac/WechatShare">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzytmac&repo=WechatShare" />
   </a>
 </p>
 
